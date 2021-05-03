@@ -4,16 +4,21 @@
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). I'll try to add something that I've learned every day for my own learning process.
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Elixir](#elixir)
 * [Java](#java)
 * [Vim](#vim)
 
 ---
+
+### Elixir
+
+- [Filtering elements in a list that does not match](elixir/filter_non_matching_elements_210503.md)
 
 ### Java
 
