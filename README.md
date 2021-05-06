@@ -4,17 +4,22 @@
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). I'll try to add something that I've learned every day for my own learning process.
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Alpine.js](#alpine.js)
 * [Elixir](#elixir)
 * [Java](#java)
 * [Vim](#vim)
 
 ---
+
+### Alpine.js
+
+- [Click to show hidden field](alpine.js/inplace_editor_210505.md)
 
 ### Elixir
 
