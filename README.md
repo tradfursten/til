@@ -4,7 +4,7 @@
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til). I'll try to add something that I've learned every day for my own learning process.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _5 TILs and counting..._
 * [Alpine.js](#alpine.js)
 * [Elixir](#elixir)
 * [Java](#java)
+* [Other](#other)
 * [Vim](#vim)
 
 ---
@@ -29,6 +30,10 @@ _5 TILs and counting..._
 
 - [JPA and empty in clause](java/JPA_empty_in_160302.md)
 - [JPA elementcollection tillåts inte i embeddeble](java/JPA_elementcollection_160418.md)
+
+### Other
+
+- [Betty Jean Jennings Bartik](other/jennings_bartik_20210507.md)
 
 ### Vim
 
